@@ -1,6 +1,3 @@
-Here's a professional README file based on your stock market prediction project:
-
-```markdown
 # Stock Trend Prediction using LSTM
 
 ## Overview
