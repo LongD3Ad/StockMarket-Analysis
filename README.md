@@ -1,4 +1,8 @@
 # Stock Trend Prediction using LSTM
+![image](https://github.com/user-attachments/assets/238dc0fb-26f7-4e81-a2b4-da499dfd1fec)   ![image](https://github.com/user-attachments/assets/b783260f-84b6-4141-adaf-c6ff19feff99)
+![image](https://github.com/user-attachments/assets/daa3433c-dc8d-403e-913c-2338a0b76867)
+
+
 
 ## Overview
 This project implements a stock trend prediction model using Long Short-Term Memory (LSTM) neural networks. It provides real-time stock data visualization and price predictions through a Streamlit web application.
